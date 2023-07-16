@@ -1,14 +1,15 @@
-<h1 align="center">Anis Kehila - Web Developer</h1>
+<h1 align="center">Hi :wave:, I'm Kehila Anis</h1>
 <h3 align="center">Graduated CS student from Algeria</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniskehila&label=Profile%20views&color=0e75b6&style=flat" alt="aniskehila" /> </p>
-<p>Welcome to my GitHub repository! This is where I showcase my web development projects and share code snippets related to various web technologies. Feel free to explore the projects ✨.</p>
+<p align="center">Welcome to my GitHub repository! This is where I showcase my web development projects and share code snippets related to various web technologies. Feel free to explore the projects ✨.</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 <ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniskehila&label=Profile%20views&color=0e75b6&style=flat" alt="aniskehila" /> </p>
   <li>🔭 I’m a <strong> front-end </strong> developer aiming to <strong>fullstack</strong></li>
   <li>:construction: I’m currently working on <a href="wareed-dz.com" target="_blank" >Wareed</a></li>
-  <li>:pushpin: I’m currently following <strong>The Odin Project</strong> Full Stack JavaScript path </li>
+  <li>:pushpin: I’m currently following <strong>The Odin Project</strong> MERN Stack path </li>
   <li>🌱 I’m currently learning <strong>Next.js</strong>,<strong>Firebase</strong> </li>
   <li>⚡ Fun fact
-    <p align="right"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
+    <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
    </li>
 </ul>
 
@@ -34,9 +35,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" />            </a>
 </p>
 <h2 align="left">Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniskehila&show_icons=true&locale=en&layout=compact" alt="aniskehila" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniskehila&" alt="aniskehila" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniskehila&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aniskehila" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniskehila&theme=tokyonight" alt="aniskehila" /></p>
 <br/>
 <br/>
-<br/>
+<hr/>
 <p align="center">Thank you for visiting my GitHub repository ✨! I hope you find something useful here.</p>
