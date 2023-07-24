@@ -5,7 +5,7 @@
 <ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniskehila&label=Profile%20views&color=0e75b6&style=flat" alt="aniskehila" /> </p>
   <li>🔭 I’m a <strong> front-end </strong> developer aiming to <strong>fullstack</strong></li>
-  <li>:construction: I’m currently working on <a href="wareed-dz.com" target="_blank" >Wareed</a></li>
+  <li>:construction: I’m currently working on <a href="https://wareed-dz.com/" target="_blank" >Wareed</a></li>
   <li>:pushpin: I’m currently following <strong>The Odin Project</strong> MERN Stack path </li>
   <li>🌱 I’m currently learning <strong>Next.js</strong>,<strong>Firebase</strong> </li>
   <li>⚡ Fun fact
