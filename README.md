@@ -1,11 +1,11 @@
 <h1 align="center">Hi :wave:, I'm Kehila Anis</h1>
-<h3 align="center">Graduated CS student from Algeria</h3>
+<h3 align="center">CS student from Algeria</h3>
 <p align="center">Welcome to my GitHub repository! This is where I showcase my web development projects and share code snippets related to various web technologies. Feel free to explore the projects ✨.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 <ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniskehila&label=Profile%20views&color=0e75b6&style=flat" alt="aniskehila" /> </p>
   <li>🔭 I’m a <strong> front-end </strong> developer aiming to <strong>fullstack</strong></li>
-  <li>:construction: I’m currently working on <a href="https://wareed-dz.com/" target="_blank" >Wareed</a></li>
+  <li>:construction: I’m currently focusing on obtaining my master's degree</li>
   <li>:pushpin: I’m currently following <strong>The Odin Project</strong> MERN Stack path </li>
   <li>🌱 I’m currently learning <strong>Next.js</strong>,<strong>Firebase</strong> </li>
   <li>⚡ Fun fact
