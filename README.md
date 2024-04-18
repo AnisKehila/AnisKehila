@@ -7,7 +7,7 @@
   <li>🔭 I’m a <strong> front-end </strong> developer aiming to <strong>fullstack</strong></li>
   <li>:construction: I’m currently focusing on obtaining my master's degree</li>
   <li>:pushpin: I’m currently following <strong>The Odin Project</strong> MERN Stack path </li>
-  <li>🌱 I’m currently learning <strong>Next.js</strong>,<strong>React Native: Expo"</strong> </li>
+  <li>🌱 I’m currently learning <strong>Next.js</strong>, <strong> React Native: Expo"</strong> </li>
   <li>⚡ Fun fact
     <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
    </li>
