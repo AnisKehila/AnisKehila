@@ -4,9 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 <ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniskehila&label=Profile%20views&color=0e75b6&style=flat" alt="aniskehila" /> </p>
-  <li>🔭 I’m a <strong> front-end </strong> developer aiming to <strong>fullstack</strong></li>
-  <li>:construction: I’m currently focusing on obtaining my master's degree</li>
+  <li>🔭 I’m a <strong> fullstack </strong> developer</li>
+  <li>:construction: I’m currently focusing on obtaining my IT master's degree</li>
   <li>🌱 I’m currently learning <strong>Electron.js</strong>, <strong> React Native: Expo"</strong> </li>
+  <li>👨🏻‍💼 I’m currently Working at <strong>SIC Entreprise</strong> </li>
   <li>⚡ Fun fact
     <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
    </li>
