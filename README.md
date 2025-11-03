@@ -8,7 +8,6 @@
 
 <ul>
   <li>🔭 I’m a <strong>Software Engineer</strong></li>
-  <li>🎓 I recently obtained my <strong>Master’s degree in IT</strong></li>
   <li>💼 Working at <strong>SIC Entreprise</strong></li>
   <li>⚡ Fun fact:
     <p align="center">
