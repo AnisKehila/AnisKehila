@@ -10,11 +10,6 @@
   <li>🔭 I’m a <strong>Software Engineer</strong></li>
   <li>💼 Working at <strong>SIC Entreprise</strong></li>
   <li>💻 Finally learning <strong>.NET</strong>… my brain needs therapy after JavaScript 😅</li>
-  <li>⚡ Fun fact:
-    <p align="center">
-      <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke Card" />
-    </p>
-  </li>
 </ul>
 
 ---
